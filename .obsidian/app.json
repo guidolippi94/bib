@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Media",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "foldHeading": true,
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

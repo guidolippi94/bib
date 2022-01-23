@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "5c62a43480b36a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "793cc55b8d00fea4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Criptovalute.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a10a0c27508178aa",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "4b37e1cdd3a27588",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Smart Contract.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "df4800a2e8dd588c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96fb54db7c6d964d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d19bc659aa80b21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b3d07357246e835",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c867a08b026dfd85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "warden",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1dbad13ee79cc84b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28da0b12e08338eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1281a598e21941f8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e89350fcd67b6f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Criptovalute.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e28dd608ec6dcd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Criptovalute.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "757cc2d1760b46b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "793cc55b8d00fea4",
+  "lastOpenFiles": [
+    "Notes/Criptovalute.md",
+    "Notes/Blockchain.md",
+    "Notes/Bitcoin.md",
+    "Notes/Blockchain -  Foundations and Use Cases.md",
+    "Notes/Truffle Suite.md",
+    "Notes/Web3.md",
+    "Notes/Smart Contract.md",
+    "Notes/Sicurezza della blockchain.md",
+    "Notes/Regole controllo qualità smart contract.md",
+    "Notes/NuxtBox.md"
+  ]
+}

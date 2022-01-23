@@ -1,0 +1,2 @@
+# BIB - Blockchain Is Bullshit (?)
+
